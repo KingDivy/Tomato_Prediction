@@ -19,7 +19,6 @@ env/
 
 # Model and data
 *.h5
-*.pkl
 *.sav
 
 # System files
