@@ -11,6 +11,8 @@ This project predicts **tomato leaf diseases** using a **Logistic Regression** m
 - Displays prediction confidence and class name
 
 ---
+## To run online
+  url: https://tomatodiseasepredictionbydd.streamlit.app
 
 ## 🖥️ How to Run Locally
 
