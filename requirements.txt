@@ -1,8 +1,8 @@
 streamlit
+tensorflow==2.16.1
+opencv-python-headless==4.10.0.84
+scikit-learn
 numpy
 pandas
-scikit-learn
-opencv-python
-pillow
-tensorflow
-joblib
+matplotlib
+Pillow
